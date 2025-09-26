@@ -7,7 +7,7 @@ This repository contains selected **data analytics projects** demonstrating my s
 - **Business Impact Analysis** (KPI improvement, cost reduction, retention optimization)
 
 ## Projects
-1. **Customer Segmentation (Demographics + Transaction Data)**  
+1. **[Customer Segmentation (Demographics + Transaction Data)](https://github.com/dsj-data/CustomerSegmentation)**  
    - Applied K-means clustering & PCA for dimensionality reduction.  
    - Defined 4 key customer segments for targeted marketing.  
    - Business value: improved campaign efficiency.
