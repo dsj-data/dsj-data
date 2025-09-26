@@ -1,16 +1,35 @@
-## Hi there 👋
+# Data Analytics Portfolio - Dasol Jeong
 
-<!--
-**dsj-data/dsj-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains selected **data analytics projects** demonstrating my skills in:
+- **Data Wrangling & ETL** (SQL, Python, R)
+- **Machine Learning & Statistics** (classification, clustering, A/B testing)
+- **Visualization & Dashboarding** (Tableau, Matplotlib, Seaborn)
+- **Business Impact Analysis** (KPI improvement, cost reduction, retention optimization)
 
-Here are some ideas to get you started:
+## Projects
+1. **Customer Segmentation (Demographics + Transaction Data)**  
+   - Applied K-means clustering & PCA for dimensionality reduction.  
+   - Defined 4 key customer segments for targeted marketing.  
+   - Business value: improved campaign efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. **Ad Channel Performance Analysis (Facebook vs Google Ads)**  
+   - Analyzed KPIs like CTR, CPC, ROAS with Python & Statsmodels.  
+   - Designed Tableau dashboard for comparison.  
+   - Business value: optimized budget allocation.
+
+3. **Fraud Detection Model (PaySim Dataset)**  
+   - Built XGBoost model with SMOTE to improve recall.  
+   - Achieved **92% accuracy, 87% recall**.  
+   - Business value: stronger fraud risk management.
+
+4. **Recommendation System (MovieLens)**  
+   - Implemented Neural Collaborative Filtering (NCF).  
+   - Improved personalization accuracy vs. baseline CF.  
+   - Business value: higher engagement & retention.
+
+## Tech Stack
+- **Languages/Tools:** Python, R, SQL, Tableau, Excel  
+- **Libraries:** pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn  
+- **Certifications:** 빅데이터분석기사, SQLD, ADsP
+
+---
