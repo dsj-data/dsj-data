@@ -17,7 +17,7 @@ This repository contains selected **data analytics projects** demonstrating my s
    - Designed Tableau dashboard for comparison.  
    - Business value: optimized budget allocation.
 
-3. **Fraud Detection Model (PaySim Dataset)**  
+3. **[Fraud Detection Model (PaySim Dataset)](https://github.com/dsj-data/FraudDetect.git)**  
    - Built XGBoost model with SMOTE to improve recall.  
    - Achieved **92% accuracy, 87% recall**.  
    - Business value: stronger fraud risk management.
