@@ -12,7 +12,7 @@ This repository contains selected **data analytics projects** demonstrating my s
    - Defined 4 key customer segments for targeted marketing.  
    - Business value: improved campaign efficiency.
 
-2. **Ad Channel Performance Analysis (Facebook vs Google Ads)**  
+2. **[Ad Channel Performance Analysis (Facebook vs Google Ads)](https://github.com/dsj-data/AdChannelPerformanceAnalysis)**  
    - Analyzed KPIs like CTR, CPC, ROAS with Python & Statsmodels.  
    - Designed Tableau dashboard for comparison.  
    - Business value: optimized budget allocation.
@@ -22,7 +22,7 @@ This repository contains selected **data analytics projects** demonstrating my s
    - Achieved **92% accuracy, 87% recall**.  
    - Business value: stronger fraud risk management.
 
-4. **Recommendation System (MovieLens)**  
+4. **[Recommendation System (MovieLens)](https://github.com/dsj-data/RecommendationSystem)**  
    - Implemented Neural Collaborative Filtering (NCF).  
    - Improved personalization accuracy vs. baseline CF.  
    - Business value: higher engagement & retention.
