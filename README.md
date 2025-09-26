@@ -14,7 +14,7 @@ This repository contains selected **data analytics projects** demonstrating my s
 
 2. **[Fraud Detection Model (PaySim Dataset)](https://github.com/dsj-data/FraudDetect.git)**  
    - Built XGBoost model with SMOTE to improve recall.  
-   - Achieved **92% accuracy, 87% recall**.  
+   - Achieved **99.99% accuracy, 99.43% recall, 96.57% precision, 97.98% f1-score**.  
    - Business value: stronger fraud risk management.
 
 ## Tech Stack
