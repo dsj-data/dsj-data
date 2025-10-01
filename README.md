@@ -10,8 +10,8 @@ This repository contains selected **data analytics projects** demonstrating my s
 1. **[Customer Segmentation (Demographics + Transaction Data)](https://github.com/dsj-data/CustomerSegmentation)**  
    - Applied K-means clustering & PCA for dimensionality reduction.  
    - Defined 4 key customer segments for targeted marketing.  
-   - Business value: improved campaign efficiency.
-
+   - Business value: more precise customer groups reduce overlap and allow personalized campaigns/targeted marketing strategies.
+     
 2. **[Fraud Detection Model (PaySim Dataset)](https://github.com/dsj-data/FraudDetect.git)**  
    - Built XGBoost model with SMOTE to improve recall.  
    - Achieved **99.99% accuracy, 99.43% recall, 96.57% precision, 97.98% f1-score**.  
